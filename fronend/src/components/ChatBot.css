@@ -813,3 +813,15 @@
             padding: 20px;
             background: radial-gradient(ellipse at bottom, #0d1b2a 0%, #000814 100%);
 }
+.min-h-screen {
+    background: #000;
+    color: #fff;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    padding: 0px;
+    background: radial-gradient(ellipse at bottom, #0d1b2a 0%, #000814 100%);
+}
