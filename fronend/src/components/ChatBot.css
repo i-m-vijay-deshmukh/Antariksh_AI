@@ -432,7 +432,7 @@
 }
 
 .bot-avatar {
-    background: linear-gradient(135deg, #fdfdfe, #3b82f6);
+    /*background: linear-gradient(135deg, #fdfdfe, #3b82f6);*/
 }
 
 .user-avatar {
